@@ -1,0 +1,31 @@
+date,amount,category,description
+01-07-2024,545.0,Expense,bus pass
+03-07-2024,25.5,Expense,lunch
+05-07-2024,1200.0,Income,salary
+07-07-2024,80.0,Expense,groceries
+10-07-2024,35.0,Expense,movie tickets
+12-07-2024,150.0,Expense,electricity bill
+15-07-2024,120.5,Expense,groceries
+17-07-2024,60.0,Expense,gas
+20-07-2024,200.0,Expense,dinner with friends
+22-07-2024,45.0,Expense,books
+25-07-2024,500.0,Income,freelance work
+27-07-2024,30.0,Expense,haircut
+29-07-2024,70.0,Expense,clothes
+01-08-2024,545.0,Expense,bus pass
+03-08-2024,28.5,Expense,lunch
+05-08-2024,1200.0,Income,salary
+07-08-2024,95.0,Expense,groceries
+10-08-2024,40.0,Expense,concert tickets
+12-08-2024,160.0,Expense,internet bill
+15-08-2024,110.0,Expense,groceries
+17-08-2024,65.0,Expense,gas
+20-08-2024,180.0,Expense,home repairs
+22-08-2024,50.0,Expense,gym membership
+25-08-2024,600.0,Income,bonus
+27-08-2024,85.0,Expense,phone bill
+29-08-2024,40.0,Expense,birthday gift
+30-08-2024,75.0,Expense,restaurant
+31-08-2024,20.0,Expense,coffee and snacks
+31-08-2024,300.0,Income,side project
+31-08-2024,55.0,Expense,public transportation
