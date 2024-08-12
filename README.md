@@ -23,6 +23,15 @@ Personal Finance Manager is a Python-based application that helps users track th
 
 5. **Data Storage**
    - Store all financial data in a CSV file for easy access and portability
+  
+## Live Preview
+
+For a live preview of this project, you can use Google Colab. Click on the link below to open the notebook:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1dj6tMCTve0Y1404SZ3ZtSF_bP7EtOYVW?usp=sharing)
+
+
+
 
 ## Requirements
 
