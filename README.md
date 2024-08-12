@@ -31,6 +31,8 @@ For a live preview of this project, you can use Google Colab. Click on the link 
 [Open in Google Colab](https://colab.research.google.com/drive/1dj6tMCTve0Y1404SZ3ZtSF_bP7EtOYVW?usp=sharing)
 
 
+# Note
+You can use the demo 'finance.csv' file for the testing purpose, present in the 'testing data' folder
 
 
 ## Requirements
